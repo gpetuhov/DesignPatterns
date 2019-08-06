@@ -1,5 +1,7 @@
 package com.gpetuhov.designpatterns.lazyeager;
 
+// Lazy and Eager initialization
+
 // Lazy initialization is done on demand,
 // when the object is needed.
 class Lazy {

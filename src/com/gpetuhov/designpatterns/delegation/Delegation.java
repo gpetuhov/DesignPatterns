@@ -1,5 +1,7 @@
 package com.gpetuhov.designpatterns.delegation;
 
+// Delegation
+
 // This is the one, that really does the job of making sound
 class Sound {
     public String makeSound() {
